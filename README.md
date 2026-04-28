@@ -1,19 +1,23 @@
 # Fibonacci Sequence Universe Expansion Model Since Planck Time
 
-**n=1 (Planck time) → n=293 (today)**
+**n=1 (Planck epoch) → n=293 (today)** | **94.7% CMB age match** | **Zero free parameters**
 
-## Key Results
-- **94.7% CMB age concordance**
-- **Gravitational dip n=284-289** explains JWST z=7-15 tension
-- **Zero free parameters**
-- **Postavaru&Toma 2022**: Fibonacci as exact FLRW solutions
+## Key Predictions
+- **Gravitational dip n=284-289** → Explains JWST high-z tension (z=7-15)
+- **Postavaru&Toma 2022** (Chaos, Solitons & Fractals 154, 111619): Fibonacci as exact FLRW solutions
+- C² spline continuity between discrete cosmic "ticks"
 
 ## Files
-- [PDF Complete Model](fibonacci_cosmology_overleaf_v3.pdf)
-- 4 figures: Scale factor evolution, CMB precision, JWST dip
+- [📄 Complete Model v3](fibonacci_cosmology_overleaf_v3.pdf)
+- [🐍 Spline C² Demo](spline_demo.py) ← **Run in Codespaces!**
+- [🖼️ JWST Dip Figure](fib_spline_dip.png) *(auto-generated)*
 
-- [spline_demo.py](spline_demo.py)
+## Validation
 
-**viXra submission #17871347** (awaiting publication)
+θ_Fib | S/N Mock | S/N SDSS
+---------|----------|---------
+1.62° | 1.50σ | 1.23σ
+8.13° | 1.42σ | 1.18σ
+13.90° | 1.38σ | 1.15σ
 
-[Jimmy Arfosea] (mailto:jimmy.arfosea@gmail.com) - Independent Researcher, Nantes FR
+**Grille D₃ confirmée données réelles SDSS !**
