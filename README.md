@@ -12,6 +12,8 @@
 - [PDF Complete Model](fibonacci_cosmology_overleaf_v3.pdf)
 - 4 figures: Scale factor evolution, CMB precision, JWST dip
 
+- [spline_demo.py](spline_demo.py)
+
 **viXra submission #17871347** (awaiting publication)
 
 [Jimmy Arfosea] (mailto:jimmy.arfosea@gmail.com) - Independent Researcher, Nantes FR
