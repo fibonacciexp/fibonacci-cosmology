@@ -10,7 +10,7 @@
 ## Files
 - [📄 Complete Model v3](fibonacci_cosmology_overleaf_v3.pdf)
 - [🐍 Spline C² Demo](spline_demo.py) ← **Run in Codespaces!**
-- [🖼️ JWST Dip Figure](fib_spline_dip.png) *(auto-generated)*
+[🐍 Run spline_demo.py → Generate figure]
 
 ## Validation
 
