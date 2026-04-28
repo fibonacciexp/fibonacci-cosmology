@@ -10,8 +10,8 @@
 ## Files
 - [📄 Complete Model v3](fibonacci_cosmology_overleaf_v3.pdf)
 - [🐍 Spline C² Demo](spline_demo.py) ← **Run in Codespaces!**
-[🐍 Run spline_demo.py → Generate figure]
-
+- spline_demo.py → Generate figure]
+  
 ## Validation
 
 θ_Fib | S/N Mock | S/N SDSS
