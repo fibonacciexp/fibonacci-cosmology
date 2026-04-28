@@ -8,9 +8,9 @@
 - C² spline continuity between discrete cosmic "ticks"
 
 ## Files
-- [📄 Complete Model v3](fibonacci_cosmology_overleaf_v3.pdf)
-- [🐍 Spline C² Demo](spline_demo.py) ← **Run in Codespaces!**
-- spline_demo.py → Generate figure]
+- [📄 Model v3](fibonacci_cosmology_overleaf_v3.pdf)
+- [🐍 Spline C² Demo](spline_demo.py)
+- Run in [Codespaces](https://github.com/features/codespaces)
   
 ## Validation
 
