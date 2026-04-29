@@ -21,3 +21,5 @@
 13.90° | 1.38σ | 1.15σ
 
 **Grille D₃ confirmée données réelles SDSS !**
+
+![Fibonacci Gravitational Dip](fib_spline_dip.png)
